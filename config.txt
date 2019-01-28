@@ -1,0 +1,6 @@
+owner=270996708584980482
+prefix=Y
+game= OK .
+stayinchannel=true
+songinstatus=false
+token=NTM5MzE2NjkyMTI0MzAzMzg1.DzAljQ.UOMxrvSktEdhuMocq40K0gMffBI
